@@ -1,7 +1,6 @@
 /******************************************************************************
 filename   tabReplacer.cpp
 author      Max Wright
-UW email    maxdw@uw.edu
 completion  10/12/2017
 
 Brief Description:
